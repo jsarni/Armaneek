@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Welcome to Movie Generator !</title>
+        <link rel="stylesheet" href="../static/css/index_style.css" />
+    </head>
+    <body>
+        <div class="all-elems-div">
+                <h1 class="page-title">Welcome to Movie Generator ! Let's generate a Movie Synopsis </h1>
+            <div class="category-choice-div">
+                <h3 class="category-choice-title">Please choose one of the available movie categories :</h3>
+                <form action="{{ url_for('generate_synopsis') }}" method="post">
+                    <input type="radio" id="romantic" name="category" value="romantic">
+                    <label for="romantic">Romantic</label><br>
+                    <input type="radio" id="murder" name="category" value="murder">
+                    <label for="murder">Murder</label><br>
+                    <input type="radio" id="violence" name="category" value="violence">
+                    <label for="violence">Violence</label><br>
+                    <input type="radio" id="cult" name="category" value="cult">
+                    <label for="violence">Cult</label><br>
+                    <input type="radio" id="flashback" name="category" value="flashback">
+                    <label for="flashback">Flashback</label><br>
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+        </div>
+
+    </body>
+</html>
