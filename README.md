@@ -7,3 +7,8 @@ Pour lancer l'application flask, assurez vous d'avoir un environnement NLP Compl
 Positionez vous dans le dossier web_app
 export FLASK_APP=movie_generator_app.py
 flask run
+
+Groupe Armaneek - 5 IABD 1 - 2021:
+SARNI Juba Saadi
+OUMEDDAH Merzouk
+SAI Aghylas (Chef de projet)
