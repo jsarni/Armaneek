@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dc55cf5-60ce-453f-b164-b999175260cb" name="Default Changelist" comment="" />
+    <list default="true" id="2dc55cf5-60ce-453f-b164-b999175260cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web_app/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_app/movie_generator_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_app/movie_generator_app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/perso/github/perso" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,6 +53,10 @@
       <option name="presentableId" value="Default" />
       <updated>1611422518032</updated>
       <workItem from="1611422519564" duration="47000" />
+      <workItem from="1611753553640" duration="9000" />
+      <workItem from="1611753924234" duration="16000" />
+      <workItem from="1611845793760" duration="140000" />
+      <workItem from="1611846210520" duration="19000" />
     </task>
     <servers />
   </component>
@@ -64,5 +73,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1611753938470">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1611753938470" />
   </component>
 </project>
